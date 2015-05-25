@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Layers.Server.Services.Layers.Transport.TransportLayer">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Layers\Transport\TransportLayer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Layers.Server.Services.Layers.CachingLayer">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAEAAAAAAAAAAgAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Services\Layers\CachingLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Layers.Server.Services.Layers.DispatcherLayer" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEACQCEAEAAAUAAAAAgACAAgAAAEgCgAIAEAAAAACA=</HashCode>
+      <FileName>Services\Layers\DispatcherLayer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Layers.Server.Services.BasketService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAACAAIAAAAAAACA=</HashCode>
+      <FileName>Services\BasketService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Layers.Server.Services.ShopAdminService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACEAAAAAAAAAAAgAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\ShopAdminService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Layers.Server.Services.ShopService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAEAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\ShopService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Layers.Server.Services.UserService" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEACAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Services\UserService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Layers.Common.Services.Layers.Logging.LoggingLayer">
+    <Position X="9.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Layers.Common.Services.Layers.Validation.ValidationLayer">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Layers.Common.Services.Layers.Base.ServicesLayer" Collapsed="true">
+    <Position X="6.25" Y="1" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Layers.Server.Services.Layers.Authorization.AuthorizationLayer">
+    <Position X="11.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAQACEAAAAAAAAAAAgAAAAgAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Layers\Authorization\AuthorizationLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Layers.Server.Services.Layers.NotificationLayer">
+    <Position X="13" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAgAAAAABAAIAAAAAAAAA=</HashCode>
+      <FileName>Services\Layers\NotificationLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

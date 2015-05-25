@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Layers.Common.Services.Layers.Base.ServicesLayer">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEACQCEAEAAAEAAAAAgABAAgAAAAgCgAIAAAAAAACA=</HashCode>
+      <FileName>Services\Layers\Base\ServicesLayer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Layers.Common.Services.Layers.Logging.LoggingLayer" Collapsed="true">
+    <Position X="6.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAgAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Services\Layers\Logging\LoggingLayer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Layers.Common.Services.Layers.Validation.ValidationLayer" Collapsed="true">
+    <Position X="4" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAEAAAAAAAAAgAAABAAgAABAgAgAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Layers\Validation\ValidationLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Layers.Common.Services.IBasketService">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAACAAIAAAAAAACA=</HashCode>
+      <FileName>Services\IBasketService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Layers.Common.Services.IServicesLayer" Collapsed="true">
+    <Position X="1" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\IServicesLayer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Layers.Common.Services.IShopAdminService">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACEAAAAAAAAAAAgAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\IShopAdminService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Layers.Common.Services.IShopService">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAEAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\IShopService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Layers.Common.Services.IUserService">
+    <Position X="6.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEACAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Services\IUserService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Layers.Common.Services.Layers.Logging.ILoggingLayer">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Layers\Logging\ILoggingLayer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

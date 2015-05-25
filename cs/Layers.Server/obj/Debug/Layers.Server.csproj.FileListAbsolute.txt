@@ -1,0 +1,7 @@
+C:\Users\jkhk\documents\visual studio 2013\Projects\LayeredDesign\Layers.Server\obj\Debug\Layers.Server.csprojResolveAssemblyReference.cache
+C:\Users\jkhk\documents\visual studio 2013\Projects\LayeredDesign\Layers.Server\bin\Debug\Layers.Server.pdb
+C:\Users\jkhk\documents\visual studio 2013\Projects\LayeredDesign\Layers.Server\bin\Debug\Layers.Common.dll
+C:\Users\jkhk\documents\visual studio 2013\Projects\LayeredDesign\Layers.Server\bin\Debug\Layers.Common.pdb
+C:\Users\jkhk\documents\visual studio 2013\Projects\LayeredDesign\Layers.Server\obj\Debug\Layers.Server.pdb
+C:\Users\jkhk\documents\visual studio 2013\Projects\LayeredDesign\Layers.Server\bin\Debug\Layers.Server.exe
+C:\Users\jkhk\documents\visual studio 2013\Projects\LayeredDesign\Layers.Server\obj\Debug\Layers.Server.exe

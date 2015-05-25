@@ -1,0 +1,14 @@
+C:\Users\jkhk\documents\visual studio 2013\Projects\LayeredDesign\LayeredDesign\bin\Debug\Layers.Client.dll
+C:\Users\jkhk\documents\visual studio 2013\Projects\LayeredDesign\LayeredDesign\bin\Debug\Layers.Client.pdb
+C:\Users\jkhk\documents\visual studio 2013\Projects\LayeredDesign\LayeredDesign\obj\Debug\Layers.Client.csprojResolveAssemblyReference.cache
+C:\Users\jkhk\documents\visual studio 2013\Projects\LayeredDesign\LayeredDesign\obj\Debug\Layers.Client.dll
+C:\Users\jkhk\documents\visual studio 2013\Projects\LayeredDesign\LayeredDesign\obj\Debug\Layers.Client.pdb
+C:\Users\jkhk\documents\visual studio 2013\Projects\LayeredDesign\LayeredDesign\bin\Debug\Layers.Common.dll
+C:\Users\jkhk\documents\visual studio 2013\Projects\LayeredDesign\LayeredDesign\bin\Debug\Layers.Common.pdb
+C:\Users\jkhk\documents\visual studio 2013\Projects\LayeredDesign\Layers.Client\bin\Debug\Layers.Client.dll
+C:\Users\jkhk\documents\visual studio 2013\Projects\LayeredDesign\Layers.Client\bin\Debug\Layers.Client.pdb
+C:\Users\jkhk\documents\visual studio 2013\Projects\LayeredDesign\Layers.Client\bin\Debug\Layers.Common.dll
+C:\Users\jkhk\documents\visual studio 2013\Projects\LayeredDesign\Layers.Client\bin\Debug\Layers.Common.pdb
+C:\Users\jkhk\documents\visual studio 2013\Projects\LayeredDesign\Layers.Client\obj\Debug\Layers.Client.csprojResolveAssemblyReference.cache
+C:\Users\jkhk\documents\visual studio 2013\Projects\LayeredDesign\Layers.Client\obj\Debug\Layers.Client.dll
+C:\Users\jkhk\documents\visual studio 2013\Projects\LayeredDesign\Layers.Client\obj\Debug\Layers.Client.pdb
